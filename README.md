@@ -7,6 +7,7 @@ README
 2. Make changes the "ADD YOUR SERVER DETAILS IN THIS SECTION" as needed.
 3. A sample allowlist.txt is provided. List Steam IDs for your players.
 4. You can see Steam IDs using Showplayers in RCON or players can provide while signing up.
+5. You will need ARRCON found @ https://github.com/radj307/ARRCON
 
 a. For players to view their Steam ID:
  
