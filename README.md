@@ -14,3 +14,11 @@ a. For players to view their Steam ID:
 •  In the Steam desktop application, select your Steam username in the top right corner of the screen.
 •  Select ''Account details''.
 •  Your Steam ID can be found below your Steam username.
+
+
+********************************************************************************************************
+Donations not expected but appreciated. I made all the scripts you see here and modified so everyone can also use. Some are quick and others take time.
+
+If you would like to donate the link is below:
+
+https://www.paypal.com/donate/?business=5UD9FW3X2DVNL&no_recurring=1&item_name=Donation+not+expected+but+appreciated.+These+scripts+to+take+time+to+put+together+and+I+hope+they+do+help+you.+xKingLeonidasx&currency_code=USD
