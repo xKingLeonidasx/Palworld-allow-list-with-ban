@@ -16,6 +16,8 @@ a. For players to view their Steam ID:
 •  Your Steam ID can be found below your Steam username.
 
 
+LINUX USERS CAN TRY FOR PS ON LINUX: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.4
+
 ********************************************************************************************************
 Donations not expected but appreciated. I made all the scripts you see here for my server and modified so everyone can also use. Some are quick and others take time. I hope they help and are useful to you.
 
