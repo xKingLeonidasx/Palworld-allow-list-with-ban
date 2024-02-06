@@ -17,7 +17,7 @@ a. For players to view their Steam ID:
 
 
 ********************************************************************************************************
-Donations not expected but appreciated. I made all the scripts you see here and modified so everyone can also use. Some are quick and others take time.
+Donations not expected but appreciated. I made all the scripts you see here for my server and modified so everyone can also use. Some are quick and others take time. I hope they help and are useful to you.
 
 If you would like to donate the link is below:
 
