@@ -1,6 +1,12 @@
 # Palworld-allow-list-with-ban
 A allowlist for Palworld that will ban users and log bans.
 
+
+****************
+NOTE: Due to bug with Palworld and RCON handling characher names with non-latin /special characters the show players cmd will hang if a player has a name with those chatacters until bug is fixed.
+****************
+
+
 README
 
 1. Please follow instructions on the top of the ps1 script.
